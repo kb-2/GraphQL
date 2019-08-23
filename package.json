@@ -1,0 +1,19 @@
+{
+  "name": "gql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "graphql-yoga": "^1.18.1",
+    "mongodb": "^3.3.0",
+    "promise": "^8.0.3",
+    "q": "^1.5.1",
+    "util": "^0.12.1"
+  }
+}
